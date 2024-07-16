@@ -1,0 +1,222 @@
+[
+  {
+    "id": "Cappucino",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Kenya",
+        "organic": "yes",
+        "roast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "Cold brew",
+    "features": [
+      {
+        "type": "cold",
+        "origin": "Brazil",
+        "organic": "yes",
+        "roast": "light"
+      }
+    ]
+  },
+  {
+    "id": "Iced mocha",
+    "features": [
+      {
+        "type": "cold",
+        "origin": "Ethiopia",
+        "organic": "no",
+        "roast": "light"
+      }
+    ]
+  },
+  {
+    "id": "Latte",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Brazil",
+        "organic": "no",
+        "roast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "Espresso",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Italy",
+        "organic": "no",
+        "roast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "Americano",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "United States",
+        "organic": "yes",
+        "roast": "medium"
+      }
+    ]
+  },
+  {
+    "id": "Macchiato",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Italy",
+        "organic": "yes",
+        "roast": "medium"
+      }
+    ]
+  },
+  {
+    "id": "Mocha",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Yemen",
+        "organic": "no",
+        "roast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "Affogato",
+    "features": [
+      {
+        "type": "cold",
+        "origin": "Italy",
+        "organic": "no",
+        "roast": "light"
+      }
+    ]
+  },
+  {
+    "id": "Turkish coffee",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Turkey",
+        "organic": "yes",
+        "roast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "Flat white",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Australia",
+        "organic": "no",
+        "roast": "medium"
+      }
+    ]
+  },
+  {
+    "id": "Irish coffee",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Ireland",
+        "organic": "no",
+        "roast": "medium"
+      }
+    ]
+  },
+  {
+    "id": "Vienna coffee",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Austria",
+        "organic": "yes",
+        "roast": "medium"
+      }
+    ]
+  },
+  {
+    "id": "Cuban coffee",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Cuba",
+        "organic": "no",
+        "roast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "Vietnamese iced coffee",
+    "features": [
+      {
+        "type": "cold",
+        "origin": "Vietnam",
+        "organic": "no",
+        "roast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "Greek coffee",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Greece",
+        "organic": "yes",
+        "roast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "Scandinavian coffee",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Scandinavia",
+        "organic": "yes",
+        "roast": "light"
+      }
+    ]
+  },
+  {
+    "id": "Ethiopian coffee",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Ethiopia",
+        "organic": "yes",
+        "roast": "medium"
+      }
+    ]
+  },
+  {
+    "id": "Colombian coffee",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Colombia",
+        "organic": "yes",
+        "roast": "medium"
+      }
+    ]
+  },
+  {
+    "id": "Peruvian coffee",
+    "features": [
+      {
+        "type": "hot",
+        "origin": "Peru",
+        "organic": "no",
+        "roast": "medium"
+      }
+    ]
+  }
+]
